@@ -12,7 +12,7 @@ code  discription link :
 https://github.com/Sambhav860/GUVI-PROJECT/blob/main/Online%20Healthcare%20Mangement%20System
 
 you can see output discription in ppt  :
-file:///C:/Users/hp/Downloads/Java%20project.pdf
+C:/Users/hp/Downloads/Java%20project.pdf
 
 To run this project you will need a JDK installed on your system . Download it and open this project in your code editor. Then there is HealthCareManagement.java file which you can modify. Run that file through the command prompt.
 
