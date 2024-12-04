@@ -111,6 +111,7 @@ JSFiddle: https://jsfiddle.net
 CodePen: https://codepen.io
 JSBin: https://jsbin.com
 
+# information:
 
 Frontend The frontend is built using plain HTML, CSS, and JavaScript. The primary interface includes:
 
@@ -128,4 +129,4 @@ DBConnection.java: Handles MySQL database connection using JDBC. UserOperations.
 
 
 
-T
+
