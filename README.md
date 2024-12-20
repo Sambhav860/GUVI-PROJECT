@@ -2,34 +2,6 @@ An Online Healthcare Management System aims to streamline and automate many admi
 
 Depending on the scale and complexity of the project, the features mentioned above can be customized or expanded to meet specific requirements.
 
-# project structure :
-
-1. login.html
-2. registration.html
-3. profile.html
-4. doctor profile.html
-5. stle.css
-6. validation.js
-
-code  discription link :
-https://github.com/Sambhav860/GUVI-PROJECT/blob/main/Online%20Healthcare%20Mangement%20System
-
-you can see output discription in ppt  :
-file:///C:/Users/hp/Downloads/Java%20project.pdf
-
-To run this project you will need a JDK installed on your system . Download it and open this project in your code editor. Then there is HealthCareManagement.java file which you can modify. Run that file through the command prompt.
-
-How to run this Online HealthCare Management System Project on your computer:
-
-open a command prompt by pressing win+r simultaneously and go to the location of the project by using the cd command:
-
-CD desktop
-
-CD “folder name”
-
-javac HealthCareManagement.java
-
-to run java source code you can visit above code link
 
 # features
 
