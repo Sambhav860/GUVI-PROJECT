@@ -44,6 +44,17 @@ Medical Notes: Doctors can add notes during consultations, making it easier to t
 
 Consultation History: Keep records of consultations, including diagnosis, treatment plans, and test results.
 
+# JSP
+. Register/add new patient's info 
+. Search existing patient by name/ mobile no./ PID/ aadhar no 
+. Take print of prescriptions 
+. Doctor can generate prescription and it will be automatically sent to receptionist
+. Add new employee for following roles, i) Doctor ii) Receptionist iii) Admin (another one)
+. Displays currently active employees in system
+. Each patients previous visits history is easily to access
+. Doctor information
+. Patient information
+
 # Techonology used 
 1. Html
 2. css
@@ -92,6 +103,12 @@ Registration Page: A simple form to create a user account. Login Page: A form to
 The core components of the backend include:
 
 DBConnection.java: Handles MySQL database connection using JDBC. UserOperations.java: Contains methods for patient registration, login, and apponiment. UserController.java: A Spring Boot controller for managing RESTful API endpoints for user-related operations. Contributing Fork this repository to your GitHub account. Clone the forked repository to your local machine. Create a new branch for your feature or bug fix: bash Copy code git checkout -b feature/your-feature-name Make changes and commit them: bash Copy code git add . git commit -m "Add your feature/bug fix" Push your changes to your fork: bash Copy code git push origin feature/your-feature-name Open a pull request to merge your changes into the main repository.
+
+# Project Mangement Tool:
+. Maven
+
+
+
 
 
 
