@@ -45,15 +45,15 @@ Medical Notes: Doctors can add notes during consultations, making it easier to t
 Consultation History: Keep records of consultations, including diagnosis, treatment plans, and test results.
 
 # JSP
-. Register/add new patient's info 
-. Search existing patient by name/ mobile no./ PID/ aadhar no 
-. Take print of prescriptions 
-. Doctor can generate prescription and it will be automatically sent to receptionist
-. Add new employee for following roles, i) Doctor ii) Receptionist iii) Admin (another one)
-. Displays currently active employees in system
-. Each patients previous visits history is easily to access
-. Doctor information
-. Patient information
+1. Register/add new patient's info 
+2. Search existing patient by name/ mobile no./ PID/ aadhar no 
+3. Take print of prescriptions 
+4. Doctor can generate prescription and it will be automatically sent to receptionist
+5. Add new employee for following roles, i) Doctor ii) Receptionist iii) Admin (another one)
+6. Displays currently active employees in system
+7, Each patients previous visits history is easily to access
+8, Doctor information
+9. Patient information
 
 # Techonology used 
 1. Html
